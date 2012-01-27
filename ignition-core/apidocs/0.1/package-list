@@ -1,0 +1,7 @@
+com.github.ignition.core
+com.github.ignition.core.activities
+com.github.ignition.core.adapters
+com.github.ignition.core.dialogs
+com.github.ignition.core.exceptions
+com.github.ignition.core.tasks
+com.github.ignition.core.widgets
