@@ -1,0 +1,7 @@
+com.github.ignition.support
+com.github.ignition.support.cache
+com.github.ignition.support.http
+com.github.ignition.support.http.cache
+com.github.ignition.support.http.gzip
+com.github.ignition.support.http.ssl
+com.github.ignition.support.images.remote
